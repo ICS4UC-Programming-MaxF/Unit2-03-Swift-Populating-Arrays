@@ -1,0 +1,8 @@
+Line 1: Sum = 150
+Line 2: Sum = -12
+Line 3: Sum = 100
+Line 4: Error - empty line
+Line 5: Error - "Goodbye!" is not an integer
+Line 6: Error - "apple" is not an integer
+Line 7: Sum = 54
+Line 8: Sum = -20
